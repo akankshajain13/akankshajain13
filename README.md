@@ -1,24 +1,23 @@
 ## Hi there 👋
 I'm Akanksha Jain, a Computer Science graduate (Chandigarh University, 2025) currently advancing my skills at C-DAC Delhi, where I'm focused on deepening my 
-understanding of system-level programming and modern software development practices. I enjoy building things that sit at the intersection of backend engineering 
-and data — whether that's designing secure, scalable REST APIs or building ML pipelines that go beyond notebook experiments and actually work end-to-end.
+understanding of system-level programming and modern software development practices.
+
+##🔧What I Work With
+Languages: Python, Java, JavaScript, SQL, C++
+Frameworks & Tools: Spring Boot, ReactJS, NodeJS, Android SDK
+Data & ML: Pandas, NumPy, scikit-learn, XGBoost
+Databases & Infra: MySQL, Linux, GitHub, Postman
 ---
-## 🔧What I Work With
-**Languages:** Python, Java, JavaScript, SQL, C++
-**Frameworks & Tools:** Spring Boot, ReactJS, NodeJS, Android SDK
-**Data & ML:** Pandas, NumPy, scikit-learn, XGBoost
-**Databases & Infra:** MySQL, Linux, GitHub, Postman
----
-## 🚀 Projects I've Built
-**[Secure Online Examination System]**
+## 🚀Projects I've Built
+[Secure Online Examination System]
 A full-stack exam platform built with Java, Spring Boot, React, and MySQL.Features role-based authentication, REST APIs, automated evaluation, and 
 real-time browser monitoring to prevent malpractice.
 
-**[Credit Card Fraud Detection]**
+[Credit Card Fraud Detection]
 An ML pipeline using XGBoost, Random Forest, and CNN on a real-world imbalanced dataset. Focused on minimizing false positives while maintaining 
 high precision — because in fraud detection, wrong alerts cost real money.
 
-**[Customer Market Segmentation]**
+[Customer Market Segmentation]
 A K-Means clustering model that segments customers by behavior patterns, enabling data-driven retention strategies. Built with a focus on 
 interpretability alongside accuracy.
 ---
